@@ -22,11 +22,11 @@ $groom          = "Riyan Yulianto";
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta property="og:title" content="<?= $couple_title; ?>" />
-    <meta property="og:image" content="<?= $base_link; ?>assets/thumbnail.jpg" />
+    <meta property="og:image" content="<?= $base_link; ?>assets/thumbnail.png" />
     <meta property="og:url" content="<?= $base_link; ?>" />
     <meta property=" og:site_name" content="<?= $couple_title; ?>" />
     <meta property="og:description" content="<?= $date; ?> - <?= $couple_title; ?>" />
-    <link rel="shortcut icon" href="<?= $base_link; ?>assets/thumbnail.jpg" type="image/x-icon" />
+    <link rel="shortcut icon" href="<?= $base_link; ?>assets/thumbnail.png" type="image/x-icon" />
     <meta name="description" content="<?= $couple_title; ?> - <?= $date; ?>">
 
     <meta charset="UTF-8">

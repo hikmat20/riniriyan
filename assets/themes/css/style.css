@@ -21,138 +21,138 @@ body {
    font-family: "Urbanist";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/urbanist/Urbanist-Regular.ttf);
+   src: url("../../fonts/urbanist/Urbanist-Regular.ttf");
 }
 
 @font-face {
    font-family: "Overlock";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/overlock/Overlock-Regular.ttf);
+   src: url("../../fonts/overlock/Overlock-Regular.ttf");
 }
 @font-face {
    font-family: "Angelina";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/angelina/angelina.TTF);
+   src: url("../../fonts/angelina/angelina.TTF");
 }
 
 @font-face {
    font-family: "Simplicity";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/simplicity2/simplicity.ttf);
+   src: url("../../fonts/simplicity2/simplicity.ttf");
 }
 
 @font-face {
    font-family: "WarungKopi";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/warung_kopi/Warung\ Kopi\ Regular.otf);
+   src: url("../../fonts/warung_kopi/Warung\ Kopi\ Regular.otf");
 }
 
 @font-face {
    font-family: "BothBottle";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/both_bottle/BothBottle.ttf);
+   src: url("../../fonts/both_bottle/BothBottle.ttf");
 }
 
 @font-face {
    font-family: "Fargo";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/Fargo.otf);
+   src: url("../../fonts/Fargo.otf");
 }
 @font-face {
    font-family: "Asmelina";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/AsmelinaHarley.ttf);
+   src: url("../../fonts/AsmelinaHarley.ttf");
 }
 @font-face {
    font-family: "Motion Picture";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/MotionPicture.ttf);
+   src: url("../../fonts/MotionPicture.ttf");
 }
 @font-face {
    font-family: "JuliettaMessie";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/Julietta-Messie.otf);
+   src: url("../../fonts/Julietta-Messie.otf");
 }
 @font-face {
    font-family: "Great Wishes";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/great_wishes/Great\ Wishes.otf);
+   src: url("../../fonts/great_wishes/Great\ Wishes.otf");
 }
 @font-face {
    font-family: "Rosemary Jasmine";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/Rosemary-Jasmine.ttf);
+   src: url("../../fonts/Rosemary-Jasmine.ttf");
 }
 @font-face {
    font-family: "Honey Carrot";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/Honey-Carrot.ttf);
+   src: url("../../fonts/Honey-Carrot.ttf");
 }
 @font-face {
    font-family: "Richard Hamilton";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/Richard-Hamilton.ttf);
+   src: url("../../fonts/Richard-Hamilton.ttf");
 }
 @font-face {
    font-family: "Geshana";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/geshana.ttf);
+   src: url("../../fonts/geshana.ttf");
 }
 @font-face {
    font-family: "Slim_summer";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/slim_summer.otf);
+   src: url("../../fonts/slim_summer.otf");
 }
 @font-face {
    font-family: "Diamond-Bridge";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/Diamond-Bridge.ttf);
+   src: url("../../fonts/Diamond-Bridge.ttf");
 }
 @font-face {
    font-family: "Montserrat";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/montserrat/Montserrat-Regular.ttf);
+   src: url("../../fonts/montserrat/Montserrat-Regular.ttf");
 }
 @font-face {
    font-family: "Spring-in-may";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/spring_in_may/Spring-in-May.ttf);
+   src: url("../../fonts/spring_in_may/Spring-in-May.ttf");
 }
 @font-face {
    font-family: "Thank-you";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/thank_you/Thank-you.ttf);
+   src: url("../../fonts/thank_you/Thank-you.ttf");
 }
 @font-face {
    font-family: "Weather-Sunday";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/weather_sunday/Weather-Sunday.otf);
+   src: url("../../fonts/weather_sunday/Weather-Sunday.otf");
 }
 @font-face {
    font-family: "Anatomia";
    font-style: normal;
    font-weight: 400;
-   src: url(/assets/fonts/Anatomia.ttf);
+   src: url("../../fonts/Anatomia.ttf");
 }
 
 .font-size-10 {
@@ -479,7 +479,7 @@ h3 {
 }
 
 .cover {
-   background-image: url("/assets/images/background.jpg");
+   background-image: url("../../images/background.jpg");
    background-position: top center;
    background-size: cover;
    background-repeat: no-repeat;
@@ -509,7 +509,7 @@ h3 {
 }
 
 #photo-1 {
-   background-image: url("/assets/images/silde-cover/Photo-1.jpeg");
+   background-image: url("../../images/silde-cover/Photo-1.jpeg");
    background-repeat: no-repeat;
    background-position: top center;
    min-height: 100vh;
@@ -517,14 +517,14 @@ h3 {
 }
 
 #photo-2 {
-   background-image: url("/assets/images/silde-cover/Photo-2.jpeg");
+   background-image: url("../../images/silde-cover/Photo-2.jpeg");
    background-repeat: no-repeat;
    background-position: top center;
    min-height: 100vh;
 }
 
 #photo-3 {
-   background-image: url("/assets/images/silde-cover/Photo-3.jpeg");
+   background-image: url("../../images/silde-cover/Photo-3.jpeg");
    background-repeat: no-repeat;
    background-position: top center;
    min-height: 100vh;
@@ -621,7 +621,7 @@ a.btn-theme-primary {
 }
 
 .section-divider-1 {
-   background-image: url(/assets/divider/Asset1.svg);
+   background-image: url("../../divider/Asset1.svg");
    background-size: contain;
    background-position: center;
    position: absolute;
@@ -633,7 +633,7 @@ a.btn-theme-primary {
    z-index: 999;
 }
 .section-divider-2 {
-   background-image: url(/assets/divider/Asset1.svg);
+   background-image: url(../../divider/Asset1.svg);
    background-size: cover;
    background-position: center;
    position: absolute;
@@ -646,7 +646,7 @@ a.btn-theme-primary {
    transform: rotate(180deg);
 }
 .section-divider-3 {
-   background-image: url(/assets/divider/Asset1.svg);
+   background-image: url(../../divider/Asset1.svg);
    background-size: cover;
    background-position: center;
    position: absolute;
