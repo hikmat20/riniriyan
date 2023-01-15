@@ -145,13 +145,13 @@ $groom          = "Riyan Yulianto";
                         </p>
                         <!-- <hr class="w-75 text-center m-auto border border-3 border-start-0 border-end-0 border-white border-bottom-0"> -->
                         <div class="" data-aos="zoom-in">
-                            <label class="mt-3 font-size-12 text-theme-primary">Putri Bungsu dari</label>
-                            <label class=" font-size-12 text-theme-primary">Bpk. Suparno (Alm) & Ibu Irah</label>
+                            <label class="mt-3 font-size-12 text-theme-primary">Putri Ketiga dari</label>
+                            <label class=" font-size-12 text-theme-primary">Bpk. H. Sangkot, S.Pd & Ibu Hj. Misbah D</label>
                         </div>
                     </div>
 
                     <div class="with text-center py-3">
-                        <h2 class="ft-20 text-gold font-size-30" data-aos-delay="300" data-aos="zoom-in">&</h2>
+                        <h2 class="ft-20 text-gold font-size-30" data-aos-delay="300" data-aos="zoom-in">dengan</h2>
                     </div>
 
                     <div class="text-content text-center py-3" style="z-index:9999 ;">
@@ -161,11 +161,15 @@ $groom          = "Riyan Yulianto";
                             </p>
                             <!-- <hr class="w-75 text-center m-auto border border-3 border-start-0 border-end-0 border-white border-bottom-0"> -->
                             <div class="" data-aos="zoom-in">
-                                <label class="mt-3 font-size-12 text-theme-primary">Putra Pertama</label>
-                                <label class="font-size-12 text-theme-primary">Bpk. Sugihardi (Alm) & Ibu Robiah</label>
+                                <label class="mt-3 font-size-12 text-theme-primary">Putra Kedua dari</label>
+                                <label class="font-size-12 text-theme-primary">Bpk. Misran & Ibu Ety Suryati</label>
                             </div>
                         </div>
                     </div>
+
+                    <p class="text-theme-primary mb-5" data-aos="fade-in" data-aos-delay="700">
+                        Untuk mengikuti Sunnah Rasul-mu dalam membentuk keluaraga yang Sakinah, Mawaddah, Warahmah, maka izinkan lah kami menikahkannya.
+                    </p>
 
                 </div>
             </section>
@@ -256,9 +260,9 @@ $groom          = "Riyan Yulianto";
                 </div>
 
                 <div class="save-date text-center py-5">
-                    <button type="button" class="btn btn-sm btn-theme-primary fw-bold" data-aos="zoom-in" data-aos-delay="400">
+                    <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXZyOWR1M252cjN0MnNlaDd1c2FtcGlnZW8gaGlrbWF0YXVsaWEyMEBt&tmsrc=hikmataulia20%40gmail.com" class="btn btn-sm btn-theme-primary fw-bold" data-aos="zoom-in" data-aos-delay="400">
                         <i class='bx bxs-calendar-heart'></i> Save the Date
-                    </button>
+                    </a>
                 </div>
             </section>
 
@@ -274,7 +278,7 @@ $groom          = "Riyan Yulianto";
 
                 <div class="card shadow-sm text-center border-0 my-4" style="border-radius: 1rem;background-image:url('assets/images/background.jpg');background-position: top center;background-repeat: repeat-y;background-size: cover;" data-aos="zoom-in">
                     <div class="card-body fw-bold">
-                        <form id="form-wish" class="text-start" data-aos="zoom-out" data-aos-delay="1000">
+                        <form id="form-wish" class="text-start" data-aos="zoom-in" data-aos-delay="500">
                             <div class="mb-3">
                                 <label for="name" class="form-label">Nama</label>
                                 <input type="text" class="form-control fw-bold" name="name" id="name" placeholder="Nama Kamu">
@@ -314,7 +318,7 @@ $groom          = "Riyan Yulianto";
 
             <section class="pb-2 bg-theme-primary position-relative load-whises">
                 <div class="new-greeting"></div>
-                <div class="whises" data-aos="fade-right">
+                <div class="whises" data-aos="fade-in">
                     <?php foreach ($getGreeting as $greeting) : ?>
                         <div class="px-3">
                             <div class="card shadow-sm text-theme-primary" style="border-radius: 1rem; background-image:url('assets/images/background.jpg');background-position: top center;background-repeat: repeat-y;background-size: cover;">
