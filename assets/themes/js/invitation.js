@@ -1,7 +1,8 @@
 window.scrollTo(0, 0);
+
 $(document).ready(function () {
    run_AOS();
-
+   $(".sakura-falling").sakura();
    $(".slide-photo").slick({
       infinite: true,
       speed: 1000,
@@ -274,7 +275,9 @@ function togglePlay() {
 function playAudio() {
    $("body").removeClass("overflow-hidden");
    $(".cover").addClass("open");
-   openFullscreen();
+   setTimeout(() => {
+      openFullscreen();
+   }, 1000);
    return myAudio.play();
 }
 

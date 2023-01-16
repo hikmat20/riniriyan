@@ -32,6 +32,7 @@ $groom          = "Riyan Yulianto";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="assets/themes/css/style.css">
+    <link rel="stylesheet" href="assets/themes/css/sakura.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="assets/lib/bootstraps-5/bootstrap.min.css">
@@ -62,7 +63,6 @@ $groom          = "Riyan Yulianto";
         </button>
         <!-- COVER -->
         <div class="content">
-
             <section class="cover pb-5">
                 <div class="text-content text-center mt-5" style="z-index:9999 ;">
                     <h3 class="title-text-1 fw-bolder font-size-40 text-theme-primary mb-0" style="letter-spacing: 10px;" data-aos="zoom-in">Undangan</h3>
@@ -362,6 +362,7 @@ $groom          = "Riyan Yulianto";
 <script src="assets/lib/bootstraps-5/bootstrap.min.js"></script>
 <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script> -->
 <script src="assets/lib/slick/slick.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/timoschaefer/jQuery-Sakura/jquery-sakura.min.js"></script>
 <script src="assets/lib/aos/aos.js"></script>
 <script src="assets/themes/js/invitation.js"></script>
 
