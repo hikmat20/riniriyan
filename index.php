@@ -70,11 +70,12 @@ $groom          = "Riyan Yulianto";
                         <?= $date; ?></p>
                 </div>
 
-                <div class="py-5">
-                    <div class="text-center mt-5 py-3 mx-5" style="border:4px solid #be9343;border-radius:20px 0px 20px 0px" data-aos="zoom-in" data-aos-delay="400">
+                <div class="py-5 text-center">
+                    <img src="assets/images/logo.png" class="text-center py-3 px-3" alt="Rini & Riyan" data-aos="zoom-in" data-aos-delay="400">
+                    <!-- <div class="text-center mt-5 py-3 mx-5" style="border:4px solid #be9343;border-radius:20px 0px 20px 0px" data-aos="zoom-in" data-aos-delay="400">
                         <h1 class="text-gold ft-20 font-size-48 text-shadow-m">
                             <?= $couple_name; ?></h1>
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="text-content text-center absolute bottom-text" style="z-index: 99999;">
@@ -103,9 +104,12 @@ $groom          = "Riyan Yulianto";
                 <div class="text-content pb-4 h-100 px-3 d-flex align-items-center text-center flex-column justify-content-center" data-aos="fade-in">
                     <div class="text-content text-center text-invitation" style="z-index:1 ;">
                         <!-- <h3 class="title-text-1 text-theme-primary text-shadow-sm" data-aos="zoom-in">Pernikahan</h3> -->
-                        <div class="text-center mt-5 py-3 mx-5 mb-4" style="border:4px solid #be9343;border-radius:20px 0px 20px 0px" data-aos="zoom-in" data-aos-delay="400">
+                        <!-- <div class="text-center mt-5 py-3 mx-5 mb-4" style="border:4px solid #be9343;border-radius:20px 0px 20px 0px" data-aos="zoom-in" data-aos-delay="400">
                             <h1 class="text-gold ft-20 font-size-40 text-shadow-m">
                                 <?= $couple_name; ?></h1>
+                        </div> -->
+                        <div class="py-5 text-center">
+                            <img src="assets/images/logo.png" class="text-center py-3 px-3" alt="Rini & Riyan" data-aos="zoom-in" data-aos-delay="400">
                         </div>
                         <!-- <p class="text-theme-primary font-size-12" data-aos="zoom-in-up" data-aos-delay="600"><?= $date; ?></p> -->
                     </div>
